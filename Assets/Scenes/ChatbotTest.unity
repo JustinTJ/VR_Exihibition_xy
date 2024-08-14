@@ -700,8 +700,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 949929993}
+  - component: {fileID: 949929994}
+  - component: {fileID: 949929995}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: DocumentReaderManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -722,6 +724,32 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &949929994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949929992}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6272900f2bf0a046a99172202ffa980, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filePath: E:/A_Unity works/VR_exihibition_xy/Assets/Document/DesignConcept.txt
+--- !u!114 &949929995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 949929992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10d1b79126a12ff429faac20dbe93acb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filePath: E:/A_Unity works/VR_exihibition_xy/Assets/Document/DesignCode.txt
 --- !u!1 &961739749
 GameObject:
   m_ObjectHideFlags: 0
@@ -1321,6 +1349,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1800660617}
   - component: {fileID: 1800660616}
+  - component: {fileID: 1800660618}
+  - component: {fileID: 1800660619}
   m_Layer: 0
   m_Name: ChatbotManager
   m_TagString: Untagged
@@ -1335,7 +1365,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1800660615}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4c8d1444194e1c84c89ab5052204fed4, type: 3}
   m_Name: 
@@ -1358,6 +1388,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1800660618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800660615}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 967e2104226565a43a5011d6885fbd6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userInputField: {fileID: 1153824461}
+  submitButton: {fileID: 597538000}
+  responseText: {fileID: 437794255}
+  documentReader: {fileID: 949929994}
+--- !u!114 &1800660619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800660615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5e6dc1381ca60841b3c7a339b09cbaf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userInputField: {fileID: 1153824461}
+  submitButton: {fileID: 597538000}
+  responseText: {fileID: 437794255}
+  documentReader: {fileID: 949929995}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
