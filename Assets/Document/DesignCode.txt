@@ -1,0 +1,221 @@
+Channel size
+Generally speaking, the design of the exhibition hall channel needs to take into account three aspects: channel width, display density, display height.
+Channel width: in general, the channel width design is in accordance with the number of people in the space to calculate, according to the best social distance, the channel width design for the number of people 60cml.
+Display density: it refers to the percentage of the display content in the pavilion space, generally speaking, the percentage of the display content in the pavilion space is 30%~40%.
+Display height: the vertical surface between the ground and the ceiling display area, according to the best sight range of people standing, generally designed to display the content of the height of 80-250cm.
+
+Visual size
+The audience in the visit will generally have to meet their own visual size, that is, the visual field scale, perspective scale, visual distance scale. Only these scales to do with the public's basic aesthetics, in order to bring the audience the most comfortable visual perception.
+Visual field scale: refers to the spatial range that the human head and eyeballs see when they are in a fixed state. According to this scale to plan the size and length of the content board.
+Angular scale: the angle of intersection between the two ends of an object when light is injected into the eyeballs, as well as the visible distance of the object and the distance between the two points. This factor needs to be considered when designing the extension space of the exhibition hall.
+Visual distance scale: refers to the distance between the viewer's eyes and the object being viewed, generally 1.5~2 times the size of the exhibit is appropriate.
+
+Psychological size
+Everyone has his own psychological size, which is invisible and determines people's happiness, anger, sadness and joy. In the understanding of new things personal psychological scale will be with the information of the thing itself to produce satisfaction, good and bad and other emotions, which in turn affects the behaviour of people. For example, some people will take the initiative to understand the pavilion, some people will produce a strong recognition of the product and so on. Therefore, the psychological dimension is of great significance to the whole pavilion design, and it is indispensable to dig deep into the psychological dimension of the main audience.
+
+4.2	Exhibition space
+4.2.1	The exhibition space shall consist of exhibition halls and exhibition areas.
+4.2.2	The spatial organization of exhibition halls and exhibition grounds should ensure the systematic, flexible and optional nature of exhibitions, and the flow of public visits should be convenient and should avoid meandering and crossing.
+4.2.3	The flow of exhibits and staff should be separated from the flow of public visitors. Class A and B exhibition halls should be able to have the conditions for container trucks to directly enter the exhibition halls to load and unload goods, and Class C exhibition halls should have special cargo transportation facilities.
+4.2.4	The design of the exhibition hall should be convenient for the arrangement of exhibits, and it is appropriate to use large space without columns. When there are columns in the exhibition hall, the size of column network of Grade A and Grade B exhibition halls should not be less than 9m ~ 9m.
+4.2.5	The net height of the exhibition hall should meet the requirements for exhibition use. The net height of Grade A exhibition halls should not be less than 12m, that of Grade B exhibition halls should not be less than 8m, and that of Grade C exhibition halls should not be less than 6m.
+4.2.6	Exhibit Hall booths shall be designed as standard booths and may be arranged in rows, columns or groups.
+4.2.7	In addition to meeting the requirements for safe evacuation, the dimensions of the booth aisles in the exhibition hall shall comply with the following provisions:
+4.2.7.1	The net width of the main booth aisle of the Grade A and Grade B exhibition halls should not be less than 5m, and the net width of the secondary booth aisle should not be less than 3m;
+4.2.7.2	The net width of the booth aisle in Hall C should not be less than 3 meters.
+4.2.8	The floor of the exhibition hall shall meet the requirements for storage, arrangement and transportation of exhibits, and its load value shall be determined according to the type of exhibition and requirements for use. The hanging load of the flat roof of the exhibition hall should be determined according to the requirements of the exhibition and should not be less than 0.3kN/m?.
+4.2.9	The floor of the exhibition hall should be arranged according to the requirements of the exhibition use of comprehensive equipment pipe trench, pipe well or ground outlet distribution point. Pipe ditches, pipe wells and distribution points should reach each booth area.
+4.2.10	The exhibition hall should meet the requirements for storage, arrangement and transportation of exhibitions, and its load value should be determined according to the type of exhibition and the requirements for use.
+
+
+4.2.1 The layout of the exhibition area shall be in accordance with the following provisions:
+    1. The systematic and sequential nature of the content of the display and the needs of the audience for selective visits should be met;
+    2 The organisation of audience flow should avoid repetition, intersection and omission, and the order should be in clockwise direction;
+　　3 In addition to small halls, temporary exhibition halls should be able to open, set up and take down exhibitions independently; when individual exhibition halls are closed for maintenance or exhibition adjustment, other exhibition halls should be able to open normally.
+　　
+4.2.2 The floor plan of the exhibition halls shall comply with the following provisions:
+    1 Subdivision and area shall meet the requirements of completeness of display contents (or exhibits), arrangement of exhibits and length of exhibition line, and shall meet the needs of moderate adjustment of exhibition design;
+    2 should meet the audience viewing, access, rest and copying, copying needs;
+　　3 The span of the exhibition hall should not be less than 8m when it is single-span, and the distance between columns should not be less than 7m when it is multi-span.
+　　
+4.2.3 The net height of the exhibition hall shall conform to the following provisions:
+    1 net height of the exhibition hall can be determined according to the following formula:    h>=a+b+c
+    Where: h - net height (m);
+
+          a - track and hanging space of lamps and lanterns, it is appropriate to take 0.4m;
+          b - the space needed for air circulation in the hall, it is appropriate to take 0.7m ~ 0.8m;
+          c - height of partition or exhibit band in the hall, it is appropriate to take the value of not less than 2.4m.
+  
+
+5 Architectural design classification regulations
+5.1 Historical, artistic and comprehensive museums
+5.1.1 The design of the exhibition hall shall comply with the following provisions:
+    1 Single-span exhibition halls displaying works of art, the span of which should not be less than 1.5 times to 2.0 times the maximum size of the height or width of the works of art.
+    2 For exhibition halls displaying general historical relics or ancient works of art, the net height should not be less than 3.5m; for exhibition halls displaying general modern works of art, the net height should not be less than 4.0m.
+    3 The area of the temporary exhibition hall should not be less than 200m?, and the net height should not be less than 4.5m.
+
+5.1.2 The area in front of the library shall comply with the following provisions:
+    1 Custodian studio can contain measurement, photography, cataloguing, collection retrieval, image library and pre-storage locker room, wind shower room and other functional spaces or rooms;
+　　2 Clean area and unclean area should be clearly partitioned.
+　　
+5.1.3 library area shall comply with the following provisions:
+    1 Collections should be stored in separate rooms according to material categories. Each room should have a separate door and should not have a suite.
+    2 the area of each storehouse should not be less than 50m?; cultural relics, modern art collection storehouse should be 80m? ~ 150m?; natural collection storehouse should be 200m? ~ 400m?.
+    3 cultural relics category collection library net height should be 2.8m ~ 3.0m; modern art collection, specimen collection library net height should be 3.5m ~ 4.0m; large volume collection library net height should be determined in accordance with the requirements of the process.
+　　4 key protection of first-class cultural relics, specimens and other precious collections should be set up independently.
+　　
+5.1.4 collections of technical area of the room can include cleaning room, drying room, drying room, disinfection (fumigation, freezing, low oxygen) room, painting and calligraphy framing and restoration room, oil painting restoration room, in-kind restoration room, laboratory, and shall comply with the following provisions:
+    1 Cleaning room should be equipped with sedimentation tank; drying room (or drying site) should not have direct sunlight, and should be well ventilated.
+    2 The fumigation room (kettle) should be airtight and should be equipped with a filtration device and an independent mechanical ventilation system; the walls, ceiling and floor should be easy to clean.
+    3 Painting and calligraphy framing and restoration rooms may include restoration rooms, framing rooms, temporary storage of framed pieces, and pulping rooms; restoration rooms and framing rooms should not be exposed to direct sunlight, and should be well and evenly lit, and there should be larger walls for hanging and framing paintings and calligraphies, and it is appropriate to set up air-conditioning equipment.
+    4 The plane size, net height, power supply, ventilation system and professional lighting of the oil painting restoration room should be designed according to the requirements of equipment and process.
+    5 physical restoration room can include gold and stoneware, lacquer and wood, ceramics and other restoration room and materials and tools warehouse. Restoration of gold and stone ware room can include turning mould sand casting room, baking room, operating room, etc.; lacquer wood repair room can include furniture, lacquer repair room, drying room, etc.; ceramic restoration room can include ceramic firing room, operating room, etc.. In-kind restoration room should comply with the following provisions:
+        1) the area of each room should be 50m? ~ 100m?, the net height should not be less than 3.0m;
+        2) There should be good natural ventilation, lighting, and there should be no direct sunlight;
+        3) should be equipped with exhaust cabinets, sewage treatment and other facilities according to the process requirements, when there are open fire facilities, should meet the fire prevention requirements;
+        4) Lacquer restoration room should be equipped with drying site.
+
+8 Lighting and illumination
+8.1 Lighting
+8.1.1 Museum buildings should be professionally designed for the light environment.
+8.1.2 Lighting design of museum buildings should be consistent with the current national standard "building lighting design standards" GB 50033.
+8.1.3 The lighting standard value of the museum building should comply with the provisions of Table 8.1.3.    
+Table 8.1.3 Standard Values of Lighting for Museum Buildings
+Lighting LevelLocation NameSide Lighting
+Lighting Coefficient Standard Value(%)Indoor Natural Illuminance Standard Value(lx)Top Lighting
+Lighting Coefficient Standard Value(%)Indoor Natural Illuminance Standard Value(lx)IIICultural Relic Restoration Room, Specimen Production Room, Calligraphy and Painting Mounting Room3.04502.0300IVExhibition Room, Exhibition Hall, Lobby2.03001.5200VStorage Room, Corridor, Stairwell, Bathroom1.01500.575
+    Note: 1 * indicates that insufficient lighting should be supplemented with artificial lighting, illuminance standard value of 750lx.
+        2 The exhibition hall in the table refers to the light is not sensitive to the exhibition hall, such as no special requirements should be based on the characteristics of the exhibits and the use of the requirements of the priority of natural light.
+        3 The painting and calligraphy framing room is set in the north side of the building, and only natural light is generally used when working.
+
+8.1.4 The exhibition hall shall give priority to natural light according to the characteristics of exhibits and requirements of exhibition design, and the lighting design shall comply with the following provisions:
+    1 The illuminance produced by natural light shall comply with the provisions of Article 8.1.3 of this specification;
+    2 There should be no direct sunlight in the exhibition hall, and the lighting outlet should have construction measures to reduce ultraviolet radiation, regulate and limit the value of natural light illuminance and reduce the exposure time;
+
+    3 There should be measures to prevent the generation of direct glare, reflected glare, reflection and light curtain reflection;
+    4 When supplementary artificial lighting is required, it is appropriate to use high-temperature light sources close to the colour temperature of natural light for the artificial lighting source, and should avoid damage to exhibits by heat radiation from the light source;
+    5 Top lighting should be adopted for the exhibition hall on the top floor, and the uniformity of lighting should not be less than 0.7 when top lighting is adopted;
+    6 For exhibition halls that need to identify colours, it is appropriate to use lighting materials that do not change the natural light colour;
+    7 The directionality of light should be determined according to the requirements of exhibition design;
+    8 For exhibition halls with low illumination, the entrances and exits should be equipped with visual adaptation transition areas;
+　　9 The indoor ceiling, floor and wall of the exhibition hall should be made of non-reflective finishing materials.
+　　
+8.2 lighting
+8.2.1 The lighting design of the museum building should be in line with the current national standards "Museum Lighting Design Code" GB / T 23863 and "Building Lighting Design Standards" GB 50034.
+
+8.2.2 The lighting design of the museum building should follow the principle of favourable to the ornamental exhibits and protection of exhibits, and should be safe, reliable, affordable, technologically advanced, energy-saving, convenient maintenance.
+
+8.2.3 The lighting of exhibits in the exhibition hall should be determined according to the category of exhibits, and the standard value of illumination should not be greater than the provisions of Table 8.2.3:
+Table 8.2.3 Standard Values of Exhibition Hall Exhibit Illuminance
+Exhibit TypeReference Plane and Its HeightIlluminance Standard Value (lx)Annual Exposure (lx，h/a)Exhibits particularly sensitive to light, such as textiles, paintings, dyes, colored paper, painted artifacts, dyed fabrics, animal specimensExhibit Surface<50
+(color temperature <2900K)50000Exhibits sensitive to light, such as leather, lacquerware, non-colored metal, silver, ivory, tapestries, wood artifacts and lacquerwareExhibit Surface<150
+(color temperature <3300K)360000Exhibits not sensitive to light, such as bronze, metalware, stone artifacts, jade, ceramics, glass artifacts, amber, enamel, colored glassExhibit Surface<300
+(color temperature <4000K)
+
+
+8.2.4 Illumination standard value of some of the museum premises should be consistent with the provisions of Table 8.2.4.    
+Table 8.2.4 Standard Values of Illuminance for Related Spaces in Museum Buildings
+Room or SpaceReference Plane and HeightIlluminance Standard Value (lx)UGRUoRaLobbyGround200220.4080Multipurpose HallGround300220.4080ReceptionGround150220.4080Reception Room0.75m Work Surface300220.6080Lecture Hall, Classroom0.75m Work Surface500220.6080Art Room0.75m Work Surface300220.6080Editing Room0.75m Horizontal Plane500220.6080Photographic Room0.75m Horizontal Plane1000220.6080DarkroomActual Work Surface150190.6080Exhibit Restoration RoomActual Work Surface750190.7090Sample Production RoomActual Work Surface750190.7090Bookbinding RoomActual Work Surface500190.7090Reading RoomActual Work Surface300190.7090Rotating Storage RoomGround50220.4080Collection Storage RoomGround75220.4080General Storage RoomGround100220.4080Monitoring RoomGround150220.4080Exhibition Hall0.75m Horizontal Plane200190.6080Painting Exhibition HallGround150190.6090Sculpture Exhibition HallGround150190.6090Science and Technology Exhibition HallGround200220.6080
+Note: 1 table illuminance standard value for the maintenance of the average illuminance value on the reference plane.
+        2 collections restoration room, specimen production room illuminance standard value using mixed lighting illuminance standard value, the general lighting of the illuminance value of the mixed lighting illuminance of 20% to 30% selected; when the object is light-sensitive or particularly sensitive materials, should reduce the time of local lighting, and should be anti-ultraviolet measures.
+
+8.2.5 In addition to science and technology museums, technology museums, exhibition hall lighting quality should be consistent with the following provisions:
+    1 General lighting shall be selected according to 20% to 30% of the illumination value of the exhibits;
+    2 When there is only general lighting in the exhibition hall, the ratio of the lowest illuminance on the ground to the average illuminance should not be less than 0.7;
+    3 plane exhibits of the minimum illuminance and the average illuminance ratio should not be less than 0.8; height greater than 1.4m plane exhibits, the minimum illuminance and the average illuminance ratio should not be less than 0.4;
+    4 The uniform glare value (UGR) of general lighting in the exhibition hall should not be greater than 19;
+　　5 exhibits and its background brightness ratio should not be greater than 3:1.
+　　
+8.2.6 Three-dimensional shape of the exhibits should be through a combination of directional lighting and diffuse lighting to show its three-dimensional sense, and it is appropriate to determine by way of test.
+
+8.2.7 Hall lighting light source should be used fine diameter straight tube-shaped fluorescent lamps, compact fluorescent lamps, halogen lamps or other new light source. Conditional places are suitable for the use of optical fibre, light guide tubes, LED and other lighting.
+
+8.2.8 The colour temperature of the direct lighting source of the general exhibits exhibition hall should be less than 5300K; the colour temperature of the direct lighting source of the light-sensitive exhibits exhibition hall should be less than 3300K.
+
+8.2.9 In the display of paintings, colour fabrics and other multi-colour exhibits and other places with high requirements for colour recognition, the general colour-rendering index of the light source (Ra) should not be less than 90; places with low requirements for colour recognition, the general colour-rendering index of the light source (Ra) should not be less than 80.
+
+8.2.10 Museum building indoor lighting light source colour chart according to its relevant colour temperature is divided into three groups, light source colour chart grouping should be determined according to Table 8.2.10.
+Table 8.2.10 Light Source Color Group
+Color GroupColor CharacteristicsRelated Color Temperature (K)Applicable PlacesIWarm<3300Reception Room, Reception, Light-sensitive Exhibit HallIINeutral3300~5300Office, Lecture Hall, Ticket Office, Evaluation Room, Reading Room, General Exhibit HallIIICool>5300High Illuminance Places
+       
+8.2.11 Collections of indoor storage and light sensitive exhibits of lighting should be selected without ultraviolet light source, and should have a light-shielding device. General lighting in the exhibition hall should be used less ultraviolet light source. For light-sensitive and particularly sensitive exhibits or collections, the relative ultraviolet content of the light source should be less than 20μW/1m, and its annual exposure should not be greater than the provisions of Table 8.2.3 of this specification.
+
+6 Building design
+6.1 Determination of the calibrated number of occupants of a building
+
+6.1.1 For buildings with fixed seats and other indicated number of occupants, the width of ancillary facilities, evacuation routes and staircases and safety exits shall be calculated on the basis of the indicated number of occupants.
+
+6.1.2 No number of people in the building should be in accordance with the current national standards or after investigation and analysis to determine the number of reasonable users, and should be used as the basis for calculating the supporting facilities, evacuation routes and stairways and the width of the safety exits. 6.1.3 Multi-purpose public buildings, a variety of places may be used at the same time the same exit, the number of people in the horizontal should be superimposed on the number of users of the various parts of the calculation of the width of the safety exits and evacuation stairways; in the vertical direction, the number of users should be calculated according to the number of safety exits. The width of the evacuation stairs; in the vertical direction, above ground buildings should be based on the number of users of the floor up to one floor to calculate the width of the following floor safety evacuation stairs, underground buildings should be based on the number of users of the floor up to one floor to calculate the width of the above floor safety evacuation stairs.
+
+6.1.3 Multi-functional use of public buildings, a variety of places may be used at the same time the same exit, in the horizontal direction should be superimposed on the number of users of the various parts of the calculation of the width of the safety evacuation exits and evacuation staircase; in the vertical direction, above ground buildings should be the number of people using the floor up to the level of the calculation of the width of the safety evacuation staircase of the following floors, the number of people using the underground building should be the number of people using the level of the calculation of the maximum number of floors above the level of the width of the safety evacuation stairs. 
+
+6.2 Layout
+6.2.1 The building plan should be reasonably laid out according to the nature of the use of the building, function, technology and other requirements, and have a certain degree of flexibility.
+
+6.2.2 According to the use function, the use space of the building should make full use of natural conditions such as sunshine, lighting, ventilation and landscape. For rooms with privacy requirements, line-of-sight interference should be prevented.
+
+6.2.3 Building entrances and exits should be set up according to site conditions, building use functions, traffic organisation and safety evacuation requirements.
+
+6.2.4 The building layout in earthquake zone should be regular.
+
+6.3 Storey height and indoor net height
+6.3.1 Building height should be combined with building functions, process requirements and technical and economic conditions to determine, and in line with the provisions of the current national building design standards.
+
+6.3.2 Indoor net height shall be calculated according to the vertical distance between the finished floor surface and the bottom surface of suspended ceiling, floor slab or beam; when the underside of the building cover, the underside of the pipe or the bottom surface of the pipe of the roof cover affects the effective use of the space, the vertical distance shall be calculated according to the vertical distance between the finished floor surface and the underside of the underside of the pipe or the bottom surface of the pipe of the underside of the suspended member.
+
+6.3.3 The indoor clear height of the building rooms should be in line with the provisions of the relevant national building design standards in force, and the lowest part of the basement, partial mezzanine, walkway and other normal activities of the personnel should not be less than 2.0m clear height.
+
+6.15 Suspended ceiling
+6.15.1 Outdoor ceiling should be based on the nature of the building, height and engineering location of geography, climate and environmental conditions such as reasonable choice of ceiling materials and forms. Ceiling structure should meet the safety, fire, earthquake, wind, weather, corrosion and other related standards. Outdoor ceiling should be wind uncovering strengthening measures.
+
+6.15.2 Indoor ceiling should be based on the use of functional characteristics of space, height, environment and other conditions of reasonable choice of materials and forms of ceiling. Ceiling structure should meet the safety, fire, earthquake, moisture, corrosion, sound absorption and other related standards.
+
+6.15.3 outdoor ceiling and indoor ceiling junction should be heat preservation or thermal insulation measures, and should be consistent with the relevant provisions of the current national building energy-saving standards.
+
+6.15.4 suspended ceiling and the main structure of the suspension should be safe construction measures, heavy or vibration and other equipment should be directly suspended in the building load-bearing structure, and should be structural calculations, to meet the requirements of the current relevant standards; when the length of the boom is greater than 1.5m, it is appropriate to set up a steel support frame or counter-support.
+
+6.15.5 The ceiling system shall not be hung on the equipment pipelines or facilities in the ceiling.
+
+6.15.6 The ceiling with more pipelines shall comply with the following provisions:
+????1 Reasonable arrangement of various equipment pipelines or facilities, and shall comply with the provisions of the current national fire prevention, safety and related professional standards;
+????2 the ceiling should meet the requirements of pedestrian and maintenance load, and should leave the maintenance space, according to the need to set up maintenance road (horse road) and easy access to the ceiling of the manhole;
+????3 not on the ceiling should be easy to dismantle the assembly of the ceiling board or in the position of the need to set up maintenance holes.
+
+6.15.7 When there is water piping laid in the ceiling, measures should be taken to prevent condensation.
+
+6.15.8 Moist room or environment of the ceiling, should be used waterproof or moisture-proof materials and measures to prevent condensation, dripping and discharge of condensate; reinforced concrete ceiling is suitable for cast-in-situ panels.
+
+6.17 Interior and exterior finishes
+6.17.1 The design of indoor and outdoor decoration shall comply with the following provisions:
+
+????1 Indoor and outdoor decoration should not affect the safety of building structure. When existing buildings are renovated, reliability appraisal should be carried out, and reinforcement should be carried out according to the appraisal results.
+
+????2 The decoration project shall adopt energy-saving and environment-friendly decoration materials according to the requirements of use functions, and shall comply with the relevant provisions of the current national standard "Building Design Fire Code" GB 50016.
+
+6.17.2 The design of indoor decoration shall comply with the following provisions:
+
+????1 The interior decoration shall not block the fire facility signs, evacuation indicator signs and safety exits, and shall not affect the normal use of fire facilities and evacuation channels;
+
+????2 When redecorating the existing buildings, the original facilities, equipment and pipeline systems shall be fully utilised and shall meet the provisions of the current national relevant standards;
+
+????3 The interior decoration materials shall meet the relevant requirements of GB 50325 of the current national standard "Indoor Environmental Pollution Control Code for Civil Building Engineering".
+
+6.17.3 The connection between the exterior wall decoration materials or components and the main structure must be safe and firm.
+
+7 Indoor Environment
+7.1 Light Environment
+7.1.1 Lighting calculation of the main functional rooms in the building should be in line with the provisions of the current national standard "Building Lighting Design Standard" GB 50033.
+
+7.1.2 The lighting of bedrooms and living rooms (halls) of residential buildings and general wards of medical buildings should not be lower than the standard value of lighting coefficient of lighting level ♯, and the lighting of ordinary classrooms of educational buildings should not be lower than the standard value of lighting coefficient of lighting level ‰, and the calculation of lighting should be carried out. Lighting shall comply with the following provisions:
+
+1 At least one living space in each set of residence shall meet the standard requirement of lighting coefficient, and when the total number of living spaces in a set of residence exceeds 4, 2 or more of them shall meet the standard requirement of lighting coefficient;
+????2 No less than 75% of the main functional rooms of residential buildings for the elderly and kindergartens should meet the standard requirement of daylighting coefficient.
+
+7.1.3 Calculation of effective daylighting window area shall comply with the following provisions:
+????1 side lighting, civil building lighting outlet from the ground height of 0.75m below the part should not be counted as effective lighting area;
+????2 Side window light opening on the upper part of the eaves, decorative panels, fire escapes and balconies and other external shelter in the light calculation, should be based on the actual shelter involved in the calculation.
+
+7.1.4 The quantity and quality indicators of architectural lighting shall comply with the provisions of the current national standard "Architectural Lighting Design Standard" GB 50034. The lighting evaluation index of each place shall comply with the provisions of Table 7.1.4.
+
+Table 7.1.4 Lighting evaluation index of each place
+Building TypeEvaluation IndicatorsResidential BuildingIlluminance, Color Rendering IndexPublic BuildingIlluminance, Illuminance Uniformity, Unified Glare Value, Color Rendering IndexMuseum BuildingIlluminance, Illuminance Uniformity, Unified Glare Value, Color Rendering Index, Annual ExposureSports BuildingHorizontal Illuminance, Vertical Illuminance, Illuminance Uniformity, Glare Index, Color Rendering Index, Color Temperature
